@@ -1,1 +1,1 @@
-# seminar1
+# https://docs.google.com/document/d/18PIF4POYbGC0Q3rZWVIODJey-7iBrMvgylAL_kuekbI/edit#
