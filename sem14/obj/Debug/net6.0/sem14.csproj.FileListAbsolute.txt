@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\семинар1\seminar1\sem14\bin\Debug\net6.0\sem14.exe
+C:\Users\user\Desktop\семинар1\seminar1\sem14\bin\Debug\net6.0\sem14.deps.json
+C:\Users\user\Desktop\семинар1\seminar1\sem14\bin\Debug\net6.0\sem14.runtimeconfig.json
+C:\Users\user\Desktop\семинар1\seminar1\sem14\bin\Debug\net6.0\sem14.dll
+C:\Users\user\Desktop\семинар1\seminar1\sem14\bin\Debug\net6.0\sem14.pdb
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\sem14.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\sem14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\sem14.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\sem14.AssemblyInfo.cs
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\sem14.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\sem14.dll
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\refint\sem14.dll
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\sem14.pdb
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\sem14.genruntimeconfig.cache
+C:\Users\user\Desktop\семинар1\seminar1\sem14\obj\Debug\net6.0\ref\sem14.dll
