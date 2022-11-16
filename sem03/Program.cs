@@ -1,5 +1,12 @@
-﻿// С клавиатуры вводятся три числа. Найти максимальное из трех чисел
+﻿// С клавиатуры вводятся два числа a u b. Найти максимальное из них.
+
 int a = Int32.Parse(Console.ReadLine());
 int b = Int32.Parse(Console.ReadLine());
-int c = Int32.Parse(Console.ReadLine());
-Console.WriteLine(Math.Max(a, b));
+if (a > b)
+{
+    Console.WriteLine(a);
+}
+else
+{
+    Console.WriteLine(b);
+}
