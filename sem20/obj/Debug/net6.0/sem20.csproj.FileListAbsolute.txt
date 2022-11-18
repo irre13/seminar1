@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\sem20.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\sem20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\sem20.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\sem20.AssemblyInfo.cs
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\sem20.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\семинар1\sem20\bin\Debug\net6.0\sem20.exe
+C:\Users\user\Desktop\семинар1\sem20\bin\Debug\net6.0\sem20.deps.json
+C:\Users\user\Desktop\семинар1\sem20\bin\Debug\net6.0\sem20.runtimeconfig.json
+C:\Users\user\Desktop\семинар1\sem20\bin\Debug\net6.0\sem20.dll
+C:\Users\user\Desktop\семинар1\sem20\bin\Debug\net6.0\sem20.pdb
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\sem20.dll
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\refint\sem20.dll
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\sem20.pdb
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\sem20.genruntimeconfig.cache
+C:\Users\user\Desktop\семинар1\sem20\obj\Debug\net6.0\ref\sem20.dll
