@@ -1,8 +1,13 @@
 ﻿// Определить количество цифр в числе. Сделать подпрограмму.
-int N = Convert.ToInt32(Console.ReadLine());
-int count = 0;
-while (N > 0) {
-    N = N / 10;
-    count++;
+int CountDigits(int Number)
+{
+    Number = Math.Abs(int Number);
+    int count = 0;
+    while (Number > 0)
+    {
+        Number = Number / 10;
+        count++;
+    }
 }
-System.Console.WriteLine(count);
+int N = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine(CountDigits(N));
